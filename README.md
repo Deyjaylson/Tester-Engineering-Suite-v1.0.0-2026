@@ -9,4 +9,7 @@ This repository has been created as a forum where users of the software Tester E
 There is an initial readme for the first release of the software available here: https://testerpresent.com.au/TesterEngineeringSuite/ 
 ###
 
+![TesterPresent OBD2](https://github.com/user-attachments/assets/dc56dca8-90ba-416e-a427-29240b16e3e4)
+
+
 ![splash_video](https://github.com/user-attachments/assets/0d4fc122-97e5-4928-b052-9911a496f61d)
