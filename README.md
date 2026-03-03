@@ -5,8 +5,12 @@ OBD2 Datalogger, ISO14229 Diagnostics, PassThru Control
 
 ###
 
-This repository has been created as a forum where users of the software Tester Engineering Suite, can raise issues and discuss with other users the use of the software. Feature requests and issues can be raised in the issues tab.
-There is an initial readme for the first release of the software available here: https://testerpresent.com.au/TesterEngineeringSuite/ 
+This repository has been created as a forum where users of Tester Engineering Suite, can raise issues and discuss with other users the use of the software. Feature requests and issues can be raised in the issues tab.
+There is an initial readme for the first release of the software available here: https://testerpresent.com.au/TesterEngineeringSuite/   
+
+For enquiries regarding licensing visit https://testerpresent.com.au or email contact@testerpresent.com.au  
+
+
 ###
 
 ![TesterPresent OBD2](https://github.com/user-attachments/assets/dc56dca8-90ba-416e-a427-29240b16e3e4)
